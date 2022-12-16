@@ -1,0 +1,22 @@
+{
+  "name": "instacloneapi",
+  "version": "1.0.0",
+  "description": "for making instaclone this is the backend part. for api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hirak Roy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "faker": "^6.6.6",
+    "mongoose": "^6.8.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20"
+  }
+}
