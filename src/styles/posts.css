@@ -1,0 +1,79 @@
+/* reseting margins and paddings */
+
+h1,
+h2,
+h3,
+h4,
+section,
+div,
+article {
+    margin: 0%;
+    padding: 0%;
+}
+
+.post-img {
+    width: 100%;
+    height: 200px;
+}
+
+.post-container {
+    width: 30vw;
+    border: 1px solid rgb(142, 142, 142);
+    border-radius: 1%;
+    margin-top: 25px;
+}
+
+.outer-container {
+    display: flex;
+    justify-content: center;
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.icons-row {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0px 5px 0px;
+}
+
+.date {
+    margin-right: 15px;
+    font-weight: 200;
+}
+
+.likes-count {
+    margin-left: 10px;
+    margin-bottom: 5px;
+    font-size: medium;
+    font-weight: lighter;
+    color: gray;
+}
+
+.description {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+
+.header-post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 15px 10px 10px;
+}
+
+
+.author {
+    font-size: medium;
+    margin-bottom: 1px;
+}
+
+.location {
+    font-size: medium;
+    font-weight: lighter;
+    color: gray;
+}

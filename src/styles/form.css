@@ -1,0 +1,32 @@
+.form {
+    border: 1px solid rgb(148, 148, 148);
+    border-radius: 3px;
+    width: 30vw;
+    padding: 15px;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#description {
+    width: 100%;
+}
+
+.author-location-width {
+    width: 30%;
+}
+
+.author-location {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+#btn-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}

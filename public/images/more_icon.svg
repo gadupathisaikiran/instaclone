@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="8" viewBox="0 0 32 8">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="32" height="8" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="more_icon" clip-path="url(#clip-path)">
+    <g transform="translate(-1227 -238)">
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1227 238)" stroke="#707070" stroke-width="1">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-1215 -238)">
+      <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(1227 238)" stroke="#707070" stroke-width="1">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-1203 -238)">
+      <g id="Ellipse_1-3" data-name="Ellipse 1" transform="translate(1227 238)" stroke="#707070" stroke-width="1">
+        <circle cx="4" cy="4" r="4" stroke="none"/>
+        <circle cx="4" cy="4" r="3.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
